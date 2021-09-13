@@ -1,4 +1,5 @@
-# mycode
+A# mycode
+I want to lean how to version control projects with git
 This is all the code for the Alta3 NAPYA course
 # mycode (Project Title)
 
