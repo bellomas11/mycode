@@ -7,7 +7,7 @@ from pprint import pprint as pp # part of the standard library
 HD = input("Do you want HD")
 USER_DATE = input("Enter date of image in YYYY-MM-DD")
 NASAAPI = 'https://api.nasa.gov/planetary/apod?' # this is our API to call
-MYKEY = 'api_key=DEMO_KEY' ## this is our api key
+MYKEY = 'api_key=GUi3WOIHrksyfld4sz503GhgZlL0l9qymu4sMKTm' ## this is our api key
 
 ## pretty print json
 def main():
